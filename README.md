@@ -1,4 +1,4 @@
-# pulling
+REMOTE ------ # pulling
 
 
 learning how to work with github
